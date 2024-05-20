@@ -17,6 +17,7 @@ import com.example.gitsample.ui.theme.GitSampleTheme
 class MainActivity : ComponentActivity() {
 
     val a = "first change"
+    val b = "second change"
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
