@@ -20,6 +20,7 @@ class MainActivity : ComponentActivity() {
     val b = "second change"
     val c = "second change"
     val d = "second change"
+    val e = "second change"
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
