@@ -18,7 +18,6 @@ class MainActivity : ComponentActivity() {
 
     val a = "first change"
     val b = "second change"
-    val c = "second change"
     val d = "second change"
     val e = "second change"
 
