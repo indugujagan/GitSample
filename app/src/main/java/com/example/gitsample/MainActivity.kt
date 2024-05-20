@@ -16,11 +16,6 @@ import com.example.gitsample.ui.theme.GitSampleTheme
 //third change master
 class MainActivity : ComponentActivity() {
 
-    val a = "first change"
-    val b = "second change"
-    val d = "second change"
-    val e = "second change"
-
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContent {
